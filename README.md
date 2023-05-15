@@ -20,7 +20,7 @@ The data transaction takes place in three layers:
 
 ***
 
-## DSList domain model
+## 📝 DSList domain model
 
 ![image](https://github.com/JayCesar/dslist-games/assets/44206400/f0bae213-a16f-47e8-aaeb-03aa9f510480)
 
