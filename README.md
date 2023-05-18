@@ -99,7 +99,8 @@ The data transaction takes place in three layers:
 ***
 
 ## 🎥 Video demo
-https://github.com/JayCesar/dslist-games/assets/44206400/0b1ef16b-63b7-444b-aa5d-c007934a895e
+
+https://github.com/JayCesar/dslist-games/assets/44206400/f2fa9762-eafc-4d5e-b700-0b57e9bd6fbf
 
 ***
 
